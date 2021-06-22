@@ -18,10 +18,25 @@ namespace CashChangeCalculator
 {
     class Program
     {
+        private readonly int[] denominations = { 1000, 500, 200, 100, 50, 20, 10, 5, 2, 1 };
 
-        public void Interface()
+        private static void CalculateChange(int price, int paid)
         {
-            Console.WriteLine("Prints the interface");
+            int change = paid - price;
+            if (change < 0)
+            {
+                throw new ArithmeticException("Payment was not enough, please try again.");
+            }
+            else
+            {
+                Console.WriteLine(change);
+            }
+        }
+
+        private static void ToString(int[] result)
+        {
+            Console.WriteLine("Change back is: ");
+
         }
 
         /// <summary>
@@ -31,6 +46,28 @@ namespace CashChangeCalculator
         static void Main(string[] args)
         {
             Console.WriteLine("Starting the change calculator...");
+
+            int price;
+            int amountPaid;
+
+            while (true)
+            {
+                try
+                {
+                    Console.WriteLine("Write price to pay: ");
+                    price = Convert.ToInt32(Console.ReadLine());
+
+                    Console.WriteLine("Write amount paid: ");
+                    amountPaid = Convert.ToInt32(Console.ReadLine());
+                }
+                catch (Exception e)
+                {
+                    Console.WriteLine("\n>>> Error: Invalid input format <<<\n");
+                    continue;
+                }
+                CalculateChange(price, amountPaid);
+            }
+            
         }
     }
 }

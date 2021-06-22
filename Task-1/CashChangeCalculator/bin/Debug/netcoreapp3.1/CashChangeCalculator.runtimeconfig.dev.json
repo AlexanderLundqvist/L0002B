@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/Zander/.dotnet/store/|arch|/|tfm|",
+      "/Users/Zander/.nuget/packages"
+    ]
+  }
+}

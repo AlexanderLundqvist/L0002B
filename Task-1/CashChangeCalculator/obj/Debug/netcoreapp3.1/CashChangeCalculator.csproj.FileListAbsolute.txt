@@ -1,0 +1,11 @@
+/Users/Zander/Repositories/L0002B/Task-1/CashChangeCalculator/bin/Debug/netcoreapp3.1/CashChangeCalculator.deps.json
+/Users/Zander/Repositories/L0002B/Task-1/CashChangeCalculator/bin/Debug/netcoreapp3.1/CashChangeCalculator.runtimeconfig.json
+/Users/Zander/Repositories/L0002B/Task-1/CashChangeCalculator/bin/Debug/netcoreapp3.1/CashChangeCalculator.runtimeconfig.dev.json
+/Users/Zander/Repositories/L0002B/Task-1/CashChangeCalculator/bin/Debug/netcoreapp3.1/CashChangeCalculator.dll
+/Users/Zander/Repositories/L0002B/Task-1/CashChangeCalculator/bin/Debug/netcoreapp3.1/CashChangeCalculator.pdb
+/Users/Zander/Repositories/L0002B/Task-1/CashChangeCalculator/obj/Debug/netcoreapp3.1/CashChangeCalculator.AssemblyInfoInputs.cache
+/Users/Zander/Repositories/L0002B/Task-1/CashChangeCalculator/obj/Debug/netcoreapp3.1/CashChangeCalculator.AssemblyInfo.cs
+/Users/Zander/Repositories/L0002B/Task-1/CashChangeCalculator/obj/Debug/netcoreapp3.1/CashChangeCalculator.csproj.CoreCompileInputs.cache
+/Users/Zander/Repositories/L0002B/Task-1/CashChangeCalculator/obj/Debug/netcoreapp3.1/CashChangeCalculator.dll
+/Users/Zander/Repositories/L0002B/Task-1/CashChangeCalculator/obj/Debug/netcoreapp3.1/CashChangeCalculator.pdb
+/Users/Zander/Repositories/L0002B/Task-1/CashChangeCalculator/obj/Debug/netcoreapp3.1/CashChangeCalculator.genruntimeconfig.cache

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KkESMfOMepGfo2vYrINM7Li5gw5UUAcGoa641gqqmn+7VSK0hEjNSmXR7/jF4Vu7hXijeeLEr+51Qi7iXaJbXA==",
+  "dgSpecHash": "rj+oRI9EbmTP4OaBquSbVCXPqPR3Ht4Ny6c+S81E7GpxygfO+CTZlrvOka35bzoO6ONVDpoiflmBYIH30tQ6ww==",
   "success": true,
-  "projectFilePath": "D:\\Repositories\\L0002B\\Task-1\\CashChangeCalculator\\CashChangeCalculator.csproj",
+  "projectFilePath": "/Users/Zander/Repositories/L0002B/Task-1/CashChangeCalculator/CashChangeCalculator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

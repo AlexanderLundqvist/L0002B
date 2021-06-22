@@ -8,26 +8,25 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Alexander\\.nuget\\packages\\": {}
+    "/Users/Zander/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Repositories\\L0002B\\Task-1\\CashChangeCalculator\\CashChangeCalculator.csproj",
+      "projectUniqueName": "/Users/Zander/Repositories/L0002B/Task-1/CashChangeCalculator/CashChangeCalculator.csproj",
       "projectName": "CashChangeCalculator",
-      "projectPath": "D:\\Repositories\\L0002B\\Task-1\\CashChangeCalculator\\CashChangeCalculator.csproj",
-      "packagesPath": "C:\\Users\\Alexander\\.nuget\\packages\\",
-      "outputPath": "D:\\Repositories\\L0002B\\Task-1\\CashChangeCalculator\\obj\\",
+      "projectPath": "/Users/Zander/Repositories/L0002B/Task-1/CashChangeCalculator/CashChangeCalculator.csproj",
+      "packagesPath": "/Users/Zander/.nuget/packages/",
+      "outputPath": "/Users/Zander/Repositories/L0002B/Task-1/CashChangeCalculator/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Alexander\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/Zander/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
@@ -59,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.301/RuntimeIdentifierGraph.json"
       }
     }
   }
