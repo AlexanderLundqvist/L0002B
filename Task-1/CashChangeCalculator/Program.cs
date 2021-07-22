@@ -11,32 +11,76 @@
  */
 
 using System;
-using System.IO;
-
 
 namespace CashChangeCalculator
 {
     class Program
     {
-        private readonly int[] denominations = { 1000, 500, 200, 100, 50, 20, 10, 5, 2, 1 };
-
         private static void CalculateChange(int price, int paid)
         {
+            int[] denominations = { 500, 200, 100, 50, 20, 10, 5, 1 };
+            int[] amountOfBills = { 0, 0, 0, 0, 0, 0, 0, 0 };
             int change = paid - price;
             if (change < 0)
             {
-                throw new ArithmeticException("Payment was not enough, please try again.");
+                Console.WriteLine("Payment was not enough, please try again.");
             }
             else
             {
-                Console.WriteLine(change);
+                for (int i = 0; i < denominations.Length - 1; i++)
+                {
+                    if (change < denominations[i])
+                    {
+                        continue;
+                    }
+                    else
+                    {
+                        int newAmount = 0;
+                        int temp = change;
+                        while (temp >= denominations[i])
+                        {
+                            temp = temp / denominations[i];
+                            newAmount++;
+                        }
+                        amountOfBills[i] = newAmount;
+                        change %= denominations[i];
+                    }
+                }
             }
+            amountOfBills[amountOfBills.Length - 1] = change; // Adding the last 1 SEK
+            ToString(amountOfBills);
         }
 
         private static void ToString(int[] result)
         {
-            Console.WriteLine("Change back is: ");
+            int[] denominations = { 500, 200, 100, 50, 20, 10, 5, 1 };
+            Console.WriteLine("\nChange back is:");
 
+            // Loop for bills
+            for (int i = 0; i < result.Length; i++)
+            {
+                if(result[i] == 0)
+                {
+                    continue;
+                }
+                else
+                {
+                    Console.WriteLine(result[i] + " x " + denominations[i] + billOrCoin(i));
+                }
+            }
+            Console.WriteLine();
+        }
+
+        private static string billOrCoin(int index)
+        {
+            if (index < 5)
+            {
+                return " SEK bills";
+            }
+            else
+            {
+                return " SEK coins";
+            }
         }
 
         /// <summary>
@@ -50,6 +94,7 @@ namespace CashChangeCalculator
             int price;
             int amountPaid;
 
+            // Loop always running
             while (true)
             {
                 try
@@ -60,6 +105,8 @@ namespace CashChangeCalculator
                     Console.WriteLine("Write amount paid: ");
                     amountPaid = Convert.ToInt32(Console.ReadLine());
                 }
+
+                // Error handling as not to disturb the loop
                 catch (Exception e)
                 {
                     Console.WriteLine("\n>>> Error: Invalid input format <<<\n");
