@@ -1,17 +1,18 @@
 ﻿<Properties StartupConfiguration="{18C60BF4-15F7-452B-B0D9-B0CB8FF8593D}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="67" Column="18" />
+      <File FileName="Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CashChangeCalculator" expanded="True">
-            <Node name="CashChangeCalculator" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
+            <Node name="CashChangeCalculator" expanded="True" selected="True" />
           </Node>
         </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
