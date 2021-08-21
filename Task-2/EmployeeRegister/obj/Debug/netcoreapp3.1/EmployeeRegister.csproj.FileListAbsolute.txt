@@ -1,0 +1,12 @@
+/Users/Zander/Repositories/L0002B/Task-2/EmployeeRegister/bin/Debug/netcoreapp3.1/EmployeeRegister.deps.json
+/Users/Zander/Repositories/L0002B/Task-2/EmployeeRegister/bin/Debug/netcoreapp3.1/EmployeeRegister.runtimeconfig.json
+/Users/Zander/Repositories/L0002B/Task-2/EmployeeRegister/bin/Debug/netcoreapp3.1/EmployeeRegister.runtimeconfig.dev.json
+/Users/Zander/Repositories/L0002B/Task-2/EmployeeRegister/bin/Debug/netcoreapp3.1/EmployeeRegister.dll
+/Users/Zander/Repositories/L0002B/Task-2/EmployeeRegister/bin/Debug/netcoreapp3.1/EmployeeRegister.pdb
+/Users/Zander/Repositories/L0002B/Task-2/EmployeeRegister/obj/Debug/netcoreapp3.1/EmployeeRegister.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Zander/Repositories/L0002B/Task-2/EmployeeRegister/obj/Debug/netcoreapp3.1/EmployeeRegister.AssemblyInfoInputs.cache
+/Users/Zander/Repositories/L0002B/Task-2/EmployeeRegister/obj/Debug/netcoreapp3.1/EmployeeRegister.AssemblyInfo.cs
+/Users/Zander/Repositories/L0002B/Task-2/EmployeeRegister/obj/Debug/netcoreapp3.1/EmployeeRegister.csproj.CoreCompileInputs.cache
+/Users/Zander/Repositories/L0002B/Task-2/EmployeeRegister/obj/Debug/netcoreapp3.1/EmployeeRegister.dll
+/Users/Zander/Repositories/L0002B/Task-2/EmployeeRegister/obj/Debug/netcoreapp3.1/EmployeeRegister.pdb
+/Users/Zander/Repositories/L0002B/Task-2/EmployeeRegister/obj/Debug/netcoreapp3.1/EmployeeRegister.genruntimeconfig.cache
