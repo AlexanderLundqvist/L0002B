@@ -1,0 +1,10 @@
+C:\Users\Alexander\Documents\GitHub\L0002B\Task-1\ChangeCalculatorForm\ChangeCalculatorForm\obj\Debug\ChangeCalculatorForm.Form1.resources
+C:\Users\Alexander\Documents\GitHub\L0002B\Task-1\ChangeCalculatorForm\ChangeCalculatorForm\obj\Debug\ChangeCalculatorForm.Properties.Resources.resources
+C:\Users\Alexander\Documents\GitHub\L0002B\Task-1\ChangeCalculatorForm\ChangeCalculatorForm\obj\Debug\ChangeCalculatorForm.csproj.GenerateResource.cache
+C:\Users\Alexander\Documents\GitHub\L0002B\Task-1\ChangeCalculatorForm\ChangeCalculatorForm\obj\Debug\ChangeCalculatorForm.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Documents\GitHub\L0002B\Task-1\ChangeCalculatorForm\ChangeCalculatorForm\bin\Debug\ChangeCalculatorForm.exe.config
+C:\Users\Alexander\Documents\GitHub\L0002B\Task-1\ChangeCalculatorForm\ChangeCalculatorForm\bin\Debug\ChangeCalculatorForm.exe
+C:\Users\Alexander\Documents\GitHub\L0002B\Task-1\ChangeCalculatorForm\ChangeCalculatorForm\bin\Debug\ChangeCalculatorForm.pdb
+C:\Users\Alexander\Documents\GitHub\L0002B\Task-1\ChangeCalculatorForm\ChangeCalculatorForm\obj\Debug\ChangeCalculatorForm.exe
+C:\Users\Alexander\Documents\GitHub\L0002B\Task-1\ChangeCalculatorForm\ChangeCalculatorForm\obj\Debug\ChangeCalculatorForm.pdb
+C:\Users\Alexander\Documents\GitHub\L0002B\Task-1\ChangeCalculatorForm\ChangeCalculatorForm\obj\Debug\ChangeCalculatorForm.csproj.AssemblyReference.cache
