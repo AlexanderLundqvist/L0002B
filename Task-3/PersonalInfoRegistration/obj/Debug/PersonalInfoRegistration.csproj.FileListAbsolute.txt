@@ -1,0 +1,10 @@
+C:\Users\Alexander\Documents\GitHub\L0002B\Task-3\PersonalInfoRegistration\bin\Debug\PersonalInfoRegistration.exe.config
+C:\Users\Alexander\Documents\GitHub\L0002B\Task-3\PersonalInfoRegistration\bin\Debug\PersonalInfoRegistration.exe
+C:\Users\Alexander\Documents\GitHub\L0002B\Task-3\PersonalInfoRegistration\bin\Debug\PersonalInfoRegistration.pdb
+C:\Users\Alexander\Documents\GitHub\L0002B\Task-3\PersonalInfoRegistration\obj\Debug\PersonalInfoRegistration.csproj.AssemblyReference.cache
+C:\Users\Alexander\Documents\GitHub\L0002B\Task-3\PersonalInfoRegistration\obj\Debug\PersonalInfoRegistration.Form1.resources
+C:\Users\Alexander\Documents\GitHub\L0002B\Task-3\PersonalInfoRegistration\obj\Debug\PersonalInfoRegistration.Properties.Resources.resources
+C:\Users\Alexander\Documents\GitHub\L0002B\Task-3\PersonalInfoRegistration\obj\Debug\PersonalInfoRegistration.csproj.GenerateResource.cache
+C:\Users\Alexander\Documents\GitHub\L0002B\Task-3\PersonalInfoRegistration\obj\Debug\PersonalInfoRegistration.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Documents\GitHub\L0002B\Task-3\PersonalInfoRegistration\obj\Debug\PersonalInfoRegistration.exe
+C:\Users\Alexander\Documents\GitHub\L0002B\Task-3\PersonalInfoRegistration\obj\Debug\PersonalInfoRegistration.pdb
